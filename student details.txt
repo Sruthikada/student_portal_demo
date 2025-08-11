@@ -1,0 +1,4 @@
+student name :Sruthi Kada
+course: BCA
+section:2
+college: ASCS 
